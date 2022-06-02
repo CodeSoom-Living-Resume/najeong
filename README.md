@@ -41,7 +41,7 @@ GitHub. [https://github.com/Najeong-Kim](https://github.com/Najeong-Kim)
 
 **업무 이외**
 
-- 팀내 스터디, 기술 세미나 참여
+- 사내 스터디 기획 및 운영
 
 ---
 
