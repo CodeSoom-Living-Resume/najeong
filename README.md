@@ -36,6 +36,7 @@ GitHub. [https://github.com/Najeong-Kim](https://github.com/Najeong-Kim)
 
 - node 8버전을 16버전과 typescript로 마이그레이션
 - 코드리뷰, 페어 프로그래밍, UI 테스트를 통해 클린 코드 지향
+  - 다른 팀원분들이 저로 인해 심적으로 안정감을 느꼈다고 말씀해주심
 - atomic 디자인 패턴을 적용하여 재사용성 높은 컴포넌트 개발
 
 **업무 이외**
