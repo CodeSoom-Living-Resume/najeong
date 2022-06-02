@@ -80,3 +80,7 @@ GitHub. [https://github.com/Najeong-Kim](https://github.com/Najeong-Kim)
 2. **TDD**를 통한 견고하고 유연한 코드 개발
 3. **Git & 코드 리뷰**를 통한 협업
 4. 매주 회고를 통한 메타인지 향상
+
+### 자격증
+
+- 정보처리기사
