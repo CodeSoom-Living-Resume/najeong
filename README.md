@@ -43,6 +43,7 @@ GitHub. [https://github.com/Najeong-Kim](https://github.com/Najeong-Kim)
 
 - 팀내 스터디, 기술 세미나 참여
 - 프론트엔드 기술 세미나 발표
+  - TensorFlow.js를 주제로 발표
 
 ---
 
