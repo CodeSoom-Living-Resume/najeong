@@ -52,6 +52,14 @@ GitHub. [https://github.com/Najeong-Kim](https://github.com/Najeong-Kim)
 - 2015.03.02 ~ 2020.02.21 건국대학교 환경보건과학과/기계공학부 졸업
 - 2022.03 ~ 한국방송통신대학교 컴퓨터과학과 재학
 
+### [Agile Coach Squared(AC2)](https://www.ac2.kr/)
+- 2022.07.07 ~ 2022.09.29
+- 교육기관: 애자일 컨설팅
+
+1. 애자일 코칭 워크샵 교육
+2. 프로젝트 회고 형식으로 경험을 공유하고 분석, 계획
+3. 멘토링, 일대일 개별 코칭 진행
+
 ### [부스트캠프 웹·모바일 6기 멤버십 웹 풀스택](https://boostcamp.connect.or.kr/program_wm.html)
 
 - 2021.08.23 ~ 2021.12.03
