@@ -41,7 +41,10 @@ GitHub. [https://github.com/Najeong-Kim](https://github.com/Najeong-Kim)
 
 **업무 이외**
 
-- 팀내 스터디, 기술 세미나 참여
+- 사내 스터디 기획 및 운영
+  - 참여형 스터디 방법 공유
+  - 회고를 통한 스터디 개선
+  - 스터디 이탈률 감소 및 만족도, 재참여율 증가
 
 ---
 
